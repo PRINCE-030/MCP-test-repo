@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "demo-mcp-server": {
+      "command": "node",
+      "args": ["server.js"],
+      "env": {
+        "DEMO_API_KEY": "test-key"
+      }
+    }
+  }
+}

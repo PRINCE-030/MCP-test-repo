@@ -1,0 +1,7 @@
+{
+  "name": "mcp-test-repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "vscode-mcp-server": "^0.2.0"
+  }
+}
